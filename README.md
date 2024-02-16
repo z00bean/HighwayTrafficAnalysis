@@ -1,5 +1,7 @@
 # Uncovering the Root Causes to Truck Rollover Crashes on Ramps
 
+### Vehicle detection using Oriented Bounding Box (OBB) + instance segmentation.
+
 ## Introduction
 
 Highway ramps often witness truck rollover crashes, causing significant congestion and roadblocks. This research aimed to understand the primary causes of these incidents, utilizing drones to collect traffic videos at seven high-risk ramps in Massachusetts. The study includes the development of a model for vehicle detection and various algorithms for tracking vehicles, extracting trajectories, and identifying high-risk events such as unsafe lane changes.
