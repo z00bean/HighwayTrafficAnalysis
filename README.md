@@ -1,6 +1,6 @@
 # Uncovering the Root Causes to Truck Rollover Crashes on Ramps
 
-### Vehicle detection using Oriented Bounding Box (OBB) + instance segmentation.
+### Vehicle detection using modified Mask-RCNN: Oriented Bounding Box (OBB) + instance segmentation.
 
 ## Introduction
 
