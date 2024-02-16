@@ -1,4 +1,4 @@
-# Research on Truck Rollover Crashes at Highway Ramps
+# Uncovering the Root Causes to Truck Rollover Crashes on Ramps
 
 ## Introduction
 
@@ -12,6 +12,9 @@ doi: 10.1109/ITSC57777.2023.10421999.
 
 [Link to Full Report](https://www.umasstransportationcenter.org/Document.asp?DocID=1199)
 
+### Funding agency
+
+The research was funded by the Massachusetts Department of Transportation (MassDOT). However, the data analysis, findings and conclusions in this paper are the responsibility of the authors only and do not represent the official policy of the MassDOT. 
 
 ## Methodology
 
@@ -102,6 +105,9 @@ Furthermore, the speed and trajectory data undergo processing using standard clu
 
 - [Watch Innovation Series Webminar](https://vimeo.com/811280458)
 
+## Acknowledgment
+
+We want to acknowledge the invaluable assistance provided by the Massachusetts Department of Transportation (MassDOT) Aeronautics Division, which made the data collection possible. 
 
 ## Cite
 
