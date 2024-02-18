@@ -4,6 +4,20 @@
 
 ## Introduction
 
+<table>
+  <tr>
+    <td> <img src="images/gif/Andover-400-3.11-4.gif"  alt="1" ></td>
+    <td> <img src="images/gif/Auburn-out-081-comp-154s-16s-3.gif" alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><i>Andover, MA: Interchange of I-495 and I-93.</i> (https://goo.gl/maps/d8mebw4sqXC5EAwU9) </td>
+      <td><i>Auburn, MA: Massachusetts Turnpike Near Exit 10.</i> (https://maps.app.goo.gl/BbXv6EDbHQshPtqw7) </td>
+  </tr>
+</table>
+
+(*For additional information, please review the details provided on pages 21 and 22 of chapter 3 in the report. Further information on data collection sites can be found in section 3.4, pages 26 to 30.*)
+
+
 Highway ramps often witness truck rollover crashes, causing significant congestion and roadblocks. This research aimed to understand the primary causes of these incidents, utilizing drones to collect traffic videos at seven high-risk ramps in Massachusetts. The study includes the development of a model for vehicle detection and various algorithms for tracking vehicles, extracting trajectories, and identifying high-risk events such as unsafe lane changes.
 
 > Z. Bhuyan, Q. Chen, Y. Xie, Y. Cao and B. Liu, "Modeling the Risk of Truck Rollover Crashes on Highway Ramps Using Drone Video Data and Mask-RCNN," 
