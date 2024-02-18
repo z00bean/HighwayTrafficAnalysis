@@ -6,11 +6,11 @@
 
 <table>
   <tr>
-    <td> <img src="images/gif/Andover-400-3.11-4.gif"  alt="1" ></td>
-    <td> <img src="images/gif/Auburn-out-081-comp-154s-16s-3.gif" alt="2" ></td>
+    <td> <img src="images/gif/Andover-400-3.11-4-COMP.gif"  alt="Andover-close call" ></td>
+    <td> <img src="images/gif/Auburn-out-081-comp-154s-16s-3-COMP.gif" alt="Auburn-speed of vehicles" ></td>
    </tr> 
    <tr>
-      <td><i>Andover, MA: Interchange of I-495 and I-93.</i> (https://goo.gl/maps/d8mebw4sqXC5EAwU9) </td>
+      <td><i>Andover, MA: Interchange of I-495 and I-93.</i> (https://maps.app.goo.gl/PLLf5rKPCjMSfckw5) </td>
       <td><i>Auburn, MA: Massachusetts Turnpike Near Exit 10.</i> (https://maps.app.goo.gl/BbXv6EDbHQshPtqw7) </td>
   </tr>
 </table>
