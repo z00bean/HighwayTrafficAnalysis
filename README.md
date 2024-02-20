@@ -116,6 +116,7 @@ Furthermore, the speed and trajectory data undergo processing using standard clu
 - [Link to Full Report](https://www.umasstransportationcenter.org/Document.asp?DocID=1199)
 - [MassDOT Innovation Webinar Series](https://www.umasstransportationcenter.org/umtc/MassDOT-Innovation-Series.asp)
 - [Project Details on TRID](https://trid.trb.org/View/1851851)
+- [Medium article: Modeling the Risk of Truck Rollover Crashes: OBB + Mask-RCNN](https://medium.com/p/7c19daedf1ec)
 
 ## Video (Innovation Series Webminar)
 
