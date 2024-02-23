@@ -110,6 +110,15 @@ Furthermore, the speed and trajectory data undergo processing using standard clu
 
 *Speed profile clustering.*
 
+<img src="images/occlusion_handling.jpg" alt="Occlusion handling and estimation of vehicle dimension when occluded" width="800"/>
+
+*Occlusion handling and estimation of vehicle dimension when occluded.*
+
+
+<img src="images/lane_seg1.jpg" alt="Segmentation of lanes." width="800"/>
+
+*Sample result of lane segmentation and border smoothing.*
+
 
 ## Resources
 
